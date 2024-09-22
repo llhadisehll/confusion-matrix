@@ -5,4 +5,5 @@ This project in Urmia University was defined by Dr. Taj Bakhsh for the students.
 - Decision Tree
 - kNearest Neighbor
 - SVM
+  
 We learned and analyzed the data using the 5-fold cross validation method. We also drew ROC charts for these 4 methods and compared the training speed of these 4 methods.
